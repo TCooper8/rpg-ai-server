@@ -1,0 +1,17 @@
+{
+  "name": "rpg-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony --recursive test/"
+  },
+  "author": "Tyler Cooper",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "amqplib": "^0.4.0"
+  }
+}
